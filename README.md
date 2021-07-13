@@ -1,10 +1,12 @@
-# Tu-tu-ru ♪
+# Oh, hello there!
 
-Greetings, internet traveler. What you see in front of you is my github profile. 
+Welcome to my fantastic github profile. Hope you like it here.
 
-I am a python programmer, known as Crystal Melting Dot or Crystal or Melting or Dot or cmd for short.
+Who am I? Oh, I am a programmer. Code mostly in python. Do some random stuff,
+like libraries that no one ever gonna use, because they have better alternatives.
+But thats alright.. I am used to reinventing the wheel.
 
-I also once in a while do some art, even though I don't do it as often as I used to... tiring college days as an architect student are getting to me. I'll try to do more in future, just bear with me.
+I also enjoy creating addons for Blender and Godot game engine, like for example [Rena](https://github.com/cmd410/Rena), my biggest project so far which I made to practice writing recursive descent parsers and interpreter but also seems like something useful.
 
 ## My places
 
@@ -16,9 +18,8 @@ I also once in a while do some art, even though I don't do it as often as I used
 
 - [Artstation](https://cmd410.artstation.com/)
 
-- Last but not least, my [telegram channel](https://t.me/spacialdot) where I write  random crap once in a while.
+- Last but not least, my [telegram channel](https://t.me/spacialdot)
 
+---
 
-## btw...
-
-  _If I somehow succeed in making you a happier person... you know... uhm... you could make me happier as well... If you have some spare coins consider supporting me. You could maybe... I dunno... [buy me a coffee](https://www.buymeacoffee.com/cmd410) or maybe maybe even [sponsor me on librepay](https://liberapay.com/CrystalMeltingDot/)... That would be absolutely awesome... But anyway, hope you found what you were looking for, take care, internet traveler_
+![CMD410 github stats](https://github-readme-stats.vercel.app/api?username=cmd410)
